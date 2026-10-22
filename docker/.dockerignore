@@ -1,0 +1,6 @@
+**/__pycache__
+**/*.py[codz]
+.env
+.git
+.venv
+tests
